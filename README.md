@@ -14,8 +14,8 @@ Web Translator is a web application that leverages the Google Generative AI API 
 - `app.py`: Main application script
 - `requirements.txt`: List of Python dependencies
 - `templates/index.html`: HTML template for the web interface
-- `static/icons/`: Directory containing icon images
-- `.env`: Environment file for storing sensitive information
+- `static/icons/`: Directory containing icon images(NO MORE USED)
+
 
 ## Installation
 
