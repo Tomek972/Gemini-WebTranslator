@@ -24,7 +24,7 @@ To set up and run the Web Translator project, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/web_translator.git
+git clone https://github.com/Reiko0404/Gemini-WebTranslator/web_translator.git
 cd web_translator
 
 # Install Python
@@ -33,4 +33,5 @@ cd web_translator
 pip install -r requirements.txt
 
 RUN for APP.py.
+
 
