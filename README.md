@@ -33,10 +33,10 @@ cd web_translator
 pip install -r requirements.txt
 
 RUN for APP.py.
-
+```
 ### 2. Get Gemini API Key
 [https://ai.google.dev/gemini-api/docs/api-key?hl=th]
-```
+
 ### images
 ![Description of Image](https://cdn.discordapp.com/attachments/1166915484885717082/1281308794428854375/Capture.PNG?ex=66db3f4e&is=66d9edce&hm=1ece900b4597f07919eb5cb98b760f04c1e9deeb1be4119e727b9d44955ffe3c&)
 ![Description of Image](https://cdn.discordapp.com/attachments/1166915484885717082/1281308794768461876/Capture2.PNG?ex=66db3f4e&is=66d9edce&hm=f14cf69bcc8247cac0bab114dea6261723e24e672f9119831ac9a6b0e6e38b92&)
