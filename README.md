@@ -34,4 +34,8 @@ pip install -r requirements.txt
 
 RUN for APP.py.
 
+![Description of Image](https://cdn.discordapp.com/attachments/1166915484885717082/1281308794428854375/Capture.PNG?ex=66db3f4e&is=66d9edce&hm=1ece900b4597f07919eb5cb98b760f04c1e9deeb1be4119e727b9d44955ffe3c&)
+![Description of Image](https://cdn.discordapp.com/attachments/1166915484885717082/1281308794768461876/Capture2.PNG?ex=66db3f4e&is=66d9edce&hm=f14cf69bcc8247cac0bab114dea6261723e24e672f9119831ac9a6b0e6e38b92&)
+![Description of Image](https://cdn.discordapp.com/attachments/1166915484885717082/1281308795124973620/Capture3.PNG?ex=66db3f4e&is=66d9edce&hm=8540908398157e861ec5b3845fd649fb92a90c16b11d4489d9353e80c8c3d094&)
+![Description of Image](https://cdn.discordapp.com/attachments/1166915484885717082/1281308795489751125/Capture4.PNG?ex=66db3f4e&is=66d9edce&hm=2089c2753e2d769e0460e65cb2961701c6a448f6cbe6c0b4423533bab23c9ac3&)
 
