@@ -26,3 +26,11 @@ To set up and run the Web Translator project, follow these steps:
 ```bash
 git clone https://github.com/yourusername/web_translator.git
 cd web_translator
+
+# Install Python
+(https://www.python.org/downloads/windows/)
+
+pip install -r requirements.txt
+
+RUN for APP.py.
+
