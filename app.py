@@ -3,7 +3,7 @@ import google.generativeai as genai
 import os
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key'  # 필요한 경우 이 값을 변경하세요
+app.secret_key = 'AIzaSyBGtzFams5crJc4lLpw7_FhjMDmzrC7gMQ'  # 필요한 경우 이 값을 변경하세요
 
 @app.route('/')
 def index():
